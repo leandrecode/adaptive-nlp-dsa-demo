@@ -1,4 +1,6 @@
 # Adaptive NLP Exercises for Students with SLD (DSA)
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+
 
 This project presents simple and accessible Natural Language Processing (NLP) exercises using Python and spaCy, designed specifically for students with Specific Learning Disorders (SLD/DSA).
 
