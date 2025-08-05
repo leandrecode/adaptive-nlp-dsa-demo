@@ -21,3 +21,8 @@ The goal is to create an inclusive and engaging introduction to computational li
 Leano Di Bello – 2024
 
 🔗 Part of a pedagogical initiative to make language technologies accessible for everyone.
+---
+
+📌 DOI: [10.5281/zenodo.16745386](https://doi.org/10.5281/zenodo.16745386)  
+© 2024 Leano Di Bello — Educational use only. Contact: leanodb@gmail.com
+
